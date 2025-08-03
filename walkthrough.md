@@ -87,5 +87,5 @@ This CTF taught me the importance of enumeration and exploiting SUID binaries. T
 - [TryHackMe: Mr. Robot CTF](https://tryhackme.com/room/mrrobot)
 - [GTFObins: Nmap](https://gtfobins.github.io/gtfobins/nmap/)
 - [SecLists Wordlists](https://github.com/danielmiessler/SecLists)
-- PHP Reverse Shell: (https://github.com/pentestmonkey/php-reverse-shell)
+- [PHP Reverse Shell] (https://github.com/pentestmonkey/php-reverse-shell)
   
